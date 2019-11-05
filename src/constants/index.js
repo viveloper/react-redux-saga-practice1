@@ -1,0 +1,10 @@
+export const SIGNIN = 'SIGNIN';
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS';
+export const SIGNIN_FAIL = 'SIGNIN_FAIL';
+
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const FETCH_POSTS_SUCCESS = 'FETCH_POSTS_SUCCESS';
+export const FETCH_POSTS_FAIL = 'FETCH_POSTS_FAIL';
+
+export const LOADING_START = 'LOADING_START';
+export const LOADING_END = 'LOADING_END';
